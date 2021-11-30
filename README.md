@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/MartinHeinz/phtran/phtran1/readme_header.png "Header")
+![GatesCenter](https://user-images.githubusercontent.com/82999461/143977874-b03e6d62-6102-43f8-8cc3-3b1626bc229e.jpg)
 ### Hello there 👋,
 I am a first-generation student at the University of Washington majoring in computer science. I enjoy coding and playing games in my free time. I have a joy for learning and improving myself and hope to develop myself more as a programmer here, as I add more projects over time.
 
