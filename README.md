@@ -1,6 +1,6 @@
 ![GatesCenter](https://user-images.githubusercontent.com/82999461/143978115-54aee7f2-ad1a-47a9-b94f-61db0c1b220d.jpg)
 ### Hello there 👋,
-I am a first-generation student at the University of Washington majoring in Computer Science. I enjoy coding and playing games in my free time. I have a joy for learning and improving myself and hope to develop myself more as a programmer here, as I add more projects over time.
+I am a first-generation Vietnamese American student at the University of Washington majoring in Computer Science. I enjoy coding and playing games in my free time. I have a joy for learning and improving myself and hope to develop myself more as a programmer here, as I add more projects over time.
 
 
 <!--
