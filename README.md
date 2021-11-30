@@ -1,4 +1,7 @@
-### Hi there 👋
+![Header](https://raw.githubusercontent.com/MartinHeinz/phtran/phtran1/readme_header.png "Header")
+### Hello there 👋,
+I am a first-generation student at the University of Washington majoring in computer science. I enjoy coding and playing games in my free time. I have a joy for learning and improving myself and hope to develop myself more as a programmer here, as I add more projects over time.
+
 
 <!--
 **phtran1/phtran1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
